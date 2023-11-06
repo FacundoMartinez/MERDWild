@@ -12,7 +12,7 @@ Dentro de los archivos CSV se encuentran las emociones y las técnicas utilizada
 En el CSV de audio se encuentran también las etapas del proprocesamiento de texto disponible y las transcripciones. 
 
 Algunos datos relevantes se encuentran en las siguientes dos imágenes:
-![Frecuencias de emociones por modalidad y filtro]())
+![Frecuencias de emociones por modalidad y filtro](https://github.com/FacundoMartinez/MERDWild/blob/main/frecuencia%20de%20archivos%20en%20dataset%20por%20modalidad%20y%20filtro.png?raw=true)
 
-![Frecuencia de archivos en dataset por modalidad y filtro]()
+![Frecuencia de archivos en dataset por modalidad y filtro](https://github.com/FacundoMartinez/MERDWild/blob/main/frecuencia%20de%20emociones%20por%20modalidad%20y%20filtro.png?raw=true)
 
