@@ -5,3 +5,14 @@ Esta base de datos se encuentra organizada mediante ficheros, separando el conju
 
 Dentro de las emociones se encuentra "Angry" (Enojo), "Disgust" (Disgusto), "Happy" (Feliz), "Sad" (Triste), "Neutral" (Neutral), "Surprise" (Sorpresa) y "Fear" (Miedo).
 El idioma en el que se encuentra la base de datos es inglés.
+
+
+Dentro de los archivos CSV se encuentran las emociones y las técnicas utilizadas para la detección de la calidad de los datos. La columna "KEY" es la conexión entre los datos, se debe concatenar con la ruta donde se está guardando la base de datos para lograr acceder facilmente a los archivos.  
+
+En el CSV de audio se encuentran también las etapas del proprocesamiento de texto disponible y las transcripciones. 
+
+Algunos datos relevantes se encuentran en las siguientes dos imágenes:
+![Frecuencias de emociones por modalidad y filtro]())
+
+![Frecuencia de archivos en dataset por modalidad y filtro]()
+
