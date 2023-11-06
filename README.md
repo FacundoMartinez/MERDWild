@@ -1,6 +1,6 @@
-# MERDWild: Base de Datos para el Reconocimiento Multimodal de Emociones en Ambientes No Controlados
+# MERDWild: Multimodal Emotion Recognition Database in the Wild
 
-MERDWild (Multimodal Emotion Recognition Database in the Wild) es una base de datos creada para el reconocimiento multimodal de emociones en entornos no controlados. Esta base de datos integra tres conjuntos de datos previos: AFEW, AffWild2 y MELD, y abarca las modalidades de imágenes faciales, audio y texto. Cada muestra en MERDWild está etiquetada con una de las siguientes siete emociones: "Angry" (Enojo), "Disgust" (Disgusto), "Happy" (Feliz), "Sad" (Triste), "Neutral" (Neutral), "Surprise" (Sorpresa) y "Fear" (Miedo). La base de datos se encuentra en inglés.
+MERDWild es una base de datos creada para el reconocimiento multimodal de emociones en entornos no controlados. Esta base de datos integra tres conjuntos de datos previos: AFEW, AffWild2 y MELD, y abarca las modalidades de imágenes faciales, audio y texto. Cada muestra en MERDWild está etiquetada con una de las siguientes siete emociones: "Angry" (Enojo), "Disgust" (Disgusto), "Happy" (Feliz), "Sad" (Triste), "Neutral" (Neutral), "Surprise" (Sorpresa) y "Fear" (Miedo). La base de datos se encuentra en inglés.
 
 ## Estructura de MERDWild
 MERDWild está organizada en ficheros que separan los conjuntos de entrenamiento y validación, siguiendo las estructuras de las bases de datos originales. Algunas variaciones se aplican en el caso de AFEW.
