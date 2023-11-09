@@ -22,6 +22,6 @@ Las siguientes gráficas muestran la distribución de archivos en el conjunto de
 - [Frecuencia de emociones por modalidad y filtro](https://github.com/FacundoMartinez/MERDWild/blob/main/frecuencia%20de%20emociones%20por%20modalidad%20y%20filtro.png?raw=true)
 
 ## Acceso a la Base de Datos
-Para acceder a la base de datos MERDWild, es necesario enviar un correo a facundo.martinez@alumnos.uv.cl solicitando el acceso.
+Para acceder a la base de datos MERDWild, es necesario enviar un correo a ana.aguilera@uv.cl solicitando el acceso.
 
 ¡Gracias por tu interés en MERDWild! Si tienes alguna pregunta o necesitas más información, no dudes en ponerte en contacto con nosotros.
