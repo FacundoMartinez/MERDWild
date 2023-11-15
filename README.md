@@ -5,7 +5,7 @@ MERDWild es una base de datos creada para el reconocimiento multimodal de emocio
 ## Estructura de MERDWild
 MERDWild está organizada en ficheros que separan los conjuntos de entrenamiento y validación, siguiendo las estructuras de las bases de datos originales. Algunas variaciones se aplican en el caso de AFEW.
 
-![Estructura de MERDWild](https://github.com/FacundoMartinez/MERDWild/blob/main/Estructura%20(1).png?raw=true)
+![Estructura de MERDWild](https://github.com/FacundoMartinez/MERDWild/blob/main/Tesis-organizacion%20merdwild.drawio.png)
 
 ## Archivos CSV
 Dentro de los archivos CSV, se encuentran datos relacionados con las emociones y las técnicas utilizadas para evaluar la calidad de los datos. La columna "KEY" se utiliza como identificador para acceder fácilmente a los archivos, y se debe concatenar con la ruta en la que se guarda la base de datos.
