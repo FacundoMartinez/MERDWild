@@ -10,15 +10,20 @@ MERDWild está organizada en ficheros que separan los conjuntos de entrenamiento
 ## Archivos CSV
 Dentro de los archivos CSV, se encuentran datos relacionados con las emociones y las técnicas utilizadas para evaluar la calidad de los datos. Las columnas "Audio_KEY", "Image KEY" y "Images_KEY" se utilizan como identificador para acceder fácilmente a los archivos, ésta se debe concatenar con la ruta en la que se guarda la base de datos. 
 
-## Modalidad de Audio y Texto
+### Modalidad de Audio y Texto
 Dentro del archivo CSV de audio, también encontrarás información sobre las etapas de preprocesamiento de texto disponibles, las transcripciones, nombre del dataset original correspondiente a los archivos, técnicas aplicadas al preprocesamiento, entre otros.
 
 ![Ejemplo del archivo CSV de audio y texto](https://github.com/FacundoMartinez/MERDWild/blob/main/audios_csv.png)
 
-## Modalidad de Imagenes faciales
-Dentro del archivo CSV de audio, hay información sobre las técnicas utilizadas para la detección de calidad, nombre del dataset original correspondiente a los archivos, el filtro de calidad, entre otros.
+### Modalidad de Imagenes faciales
+En el archivo CSV hay información sobre las técnicas utilizadas para la detección de calidad, nombre del dataset original correspondiente a los archivos, el filtro de calidad, entre otros.
 
 ![Ejemplo del archivo CSV de imagenes faciales](https://github.com/FacundoMartinez/MERDWild/blob/main/image_csv.png)
+
+### Multimodal
+En este archivo CSV, hay solamente datos de buena calidad, los cuales han superado los filtros establecidos. Los datos se encuentran alineados por uterancia y existen columnas informativas sobre el origen de los datos, otras dedicadas al acceso a los datos, filtros por modalidad y una columna orientada a la identificación de las modalidades disponibles por uterancia, entre otras.
+
+![Ejemplo del archivo CSV multimodal]()
 
 ## Frecuencia de Emociones por Modalidad y Filtro
 Las siguientes gráficas muestran la distribución de archivos en el conjunto de datos por modalidad y filtro:
