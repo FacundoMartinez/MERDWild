@@ -13,7 +13,7 @@ Dentro de los archivos CSV, se encuentran datos relacionados con las emociones y
 ## Modalidad de Audio y Texto
 Dentro del archivo CSV de audio, también encontrarás información sobre las etapas de preprocesamiento de texto disponibles, las transcripciones, nombre del dataset original correspondiente a los archivos, técnicas aplicadas al preprocesamiento, entre otros.
 
-![Ejemplo del archivo CSV de audio y texto](https://github.com/FacundoMartinez/MERDWild/blob/main/audio%20y%20texto%20csv.jpg?raw=true)
+![Ejemplo del archivo CSV de audio y texto](https://github.com/FacundoMartinez/MERDWild/blob/main/audios_csv.png)
 
 ## Frecuencia de Emociones por Modalidad y Filtro
 Las siguientes gráficas muestran la distribución de archivos en el conjunto de datos por modalidad y filtro:
