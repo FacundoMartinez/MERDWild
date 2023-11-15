@@ -18,7 +18,7 @@ Dentro del archivo CSV de audio, también encontrarás información sobre las et
 ## Modalidad de Imagenes faciales
 Dentro del archivo CSV de audio, hay información sobre las técnicas utilizadas para la detección de calidad, nombre del dataset original correspondiente a los archivos, el filtro de calidad, entre otros.
 
-![Ejemplo del archivo CSV de imagenes faciales](https://github.com/FacundoMartinez/MERDWild/blob/main/audios_csv.png)
+![Ejemplo del archivo CSV de imagenes faciales](https://github.com/FacundoMartinez/MERDWild/blob/main/image_csv.png)
 
 ## Frecuencia de Emociones por Modalidad y Filtro
 Las siguientes gráficas muestran la distribución de archivos en el conjunto de datos por modalidad y filtro:
