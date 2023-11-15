@@ -23,7 +23,7 @@ En el archivo CSV hay información sobre las técnicas utilizadas para la detecc
 ### Multimodal
 En este archivo CSV, hay solamente datos de buena calidad, los cuales han superado los filtros establecidos. Los datos se encuentran alineados por uterancia y existen columnas informativas sobre el origen de los datos, otras dedicadas al acceso a los datos, filtros por modalidad y una columna orientada a la identificación de las modalidades disponibles por uterancia, entre otras.
 
-![Ejemplo del archivo CSV multimodal]()
+![Ejemplo del archivo CSV multimodal](https://github.com/FacundoMartinez/MERDWild/blob/main/multimodal_csv.png)
 
 ## Frecuencia de Emociones por Modalidad y Filtro
 Las siguientes gráficas muestran la distribución de archivos en el conjunto de datos por modalidad y filtro:
