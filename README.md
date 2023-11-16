@@ -1,6 +1,6 @@
-# MERDWild: Base de Datos para el Reconocimiento Multimodal de Emociones en Entornos no Controlados
+# MERDWild: Multimodal Emotion Recognition Dataset In The Wild 
 
-MERDWild es una base de datos diseñada para el reconocimiento multimodal de emociones en entornos no controlados. Esta base de datos fusiona tres conjuntos de datos previos: AFEW, AffWild2 y MELD, abarcando las modalidades de imágenes faciales, audio y texto. Cada muestra en MERDWild está etiquetada con una de las siguientes siete emociones: "Enojo", "Disgusto", "Feliz", "Triste", "Neutral", "Sorpresa" y "Miedo". La base de datos está en inglés.
+MERDWild es una base de datos diseñada para el reconocimiento multimodal de emociones en entornos no controlados. Esta base de datos fusiona tres conjuntos de datos previos: AFEW, AffWild2 y MELD, abarcando las modalidades de imágenes faciales, audio y texto. Cada muestra en MERDWild está etiquetada con una de las siguientes siete emociones: "Enojo" (Angry), "Disgusto" (Disgust), "Feliz" (Happy), "Triste" (Sad), "Neutral" (Neutral), "Sorpresa" (Surprise) y "Miedo" (Fear). La base de datos está en inglés.
 
 ## Estructura de MERDWild
 MERDWild está organizada en archivos que separan los conjuntos de entrenamiento y validación, siguiendo las estructuras de las bases de datos originales.
@@ -8,10 +8,10 @@ MERDWild está organizada en archivos que separan los conjuntos de entrenamiento
 ![Estructura de MERDWild](https://github.com/FacundoMartinez/MERDWild/blob/main/Tesis-organizacion%20merdwild.drawio.png)
 
 ## Archivos CSV
-Dentro de los archivos CSV, se encuentran datos relacionados con las emociones y las técnicas utilizadas para evaluar la calidad de los datos. Las columnas "Audio_KEY", "Image KEY" y "Images_KEYs" se utilizan como identificador para acceder fácilmente a los archivos, debiendo concatenarse con la ruta en la que se guarda la base de datos.
+Dentro de los archivos CSV, se encuentran datos relacionados con las emociones y las técnicas utilizadas para evaluar la calidad de los datos. Las columnas "Audio_KEY", "Image_KEY" y "Images_KEYs" se utilizan como identificador para acceder fácilmente a los archivos, debiendo concatenarse con la ruta en la que se guarda la base de datos.
 
 ### Modalidad de Audio y Texto
-Dentro del archivo CSV de audio, también encontrarás información sobre las etapas de preprocesamiento de texto disponibles, las transcripciones, el nombre del dataset original correspondiente a los archivos, técnicas aplicadas al preprocesamiento, entre otros.
+Dentro del archivo CSV de audio, también encontrarás información sobre las etapas de preprocesamiento de texto disponibles, las transcripciones, el nombre del dataset original correspondiente a los archivos, técnicas aplicadas al preprocesamiento, filtros de calidad, entre otros.
 
 ![Ejemplo del archivo CSV de audio y texto](https://github.com/FacundoMartinez/MERDWild/blob/main/audios_csv.png)
 
